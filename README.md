@@ -1,2 +1,2 @@
 # -
-急急急
+[https://github.com/kfx2/hi/wiki]("help")
